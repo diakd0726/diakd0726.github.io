@@ -10,7 +10,7 @@ This is a live chat web application with user registration, login, authenticatio
 
 ### Getting Started
 
-This project can be cloned and served locally
+This project can be cloned and run locally
 
 1. ```
 git clone https://github.com/justinfyh/chat-app.github.io.git
