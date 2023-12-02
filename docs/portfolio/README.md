@@ -12,6 +12,22 @@ This is a static webpage designed using the Astro framework and deployed to GitH
 
 Deployed on github pages at [justinfyh.github.io](https://justinfyh.github.io/)
 
+### Getting Started
+
+This project can be cloned and run locally
+
+1. ```
+git clone https://github.com/justinfyh/justinfyh.github.io.git
+```
+
+2. ```
+npm install
+```
+
+ 3. ```
+npm run dev
+ ```
+
 ### Built With
 
 > [Astro Framework](https://astro.build/)
