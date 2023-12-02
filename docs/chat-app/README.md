@@ -8,6 +8,37 @@ This is a live chat web application with user registration, login, authenticatio
 
 ### Showcase
 
+### Getting Started
+
+This project can be cloned and served locally
+
+1. ```
+git clone https://github.com/justinfyh/chat-app.github.io.git
+```
+
+2. ```
+npm install
+```
+
+3. ```
+cd client
+```
+
+4. ```
+npm run start
+```
+
+5. In a separate terminal:
+```
+cd server
+```
+
+ 6. ```
+node server.js
+ ```
+
+ 7. Open ```http://localhost:3000```
+
 ### Built With
 
 > ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
