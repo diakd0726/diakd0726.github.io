@@ -8,36 +8,45 @@ This is a live chat web application with user registration, login, authenticatio
 
 ### Showcase
 
+![Showcase](./images/image.png)
+
 ### Getting Started
 
-This project can be cloned and run locally
+This project's repository currently cannot be accessed
 
 1. ```
-git clone https://github.com/justinfyh/chat-app.github.io.git
-```
+   git clone
+   ```
+
+````
 
 2. ```
 npm install
-```
+````
 
 3. ```
-cd client
-```
+   cd client
+   ```
+
+````
 
 4. ```
 npm run start
-```
+````
 
 5. In a separate terminal:
+
 ```
 cd server
 ```
 
- 6. ```
-node server.js
- ```
+6.  ```
+    node server.js
+    ```
 
- 7. Open ```http://localhost:3000```
+````
+
+7. Open ```http://localhost:3000```
 
 ### Built With
 
@@ -54,3 +63,4 @@ node server.js
 > ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+````
