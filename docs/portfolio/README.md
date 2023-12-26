@@ -4,7 +4,8 @@
 
 ## About this project
 
-![main](/images/main.png)
+![main](/images/image.png)
+![showcase](https://imgur.com/a/IEo3w02)
 
 This is a static webpage designed using the Astro framework and deployed to GitHub pages. It is a personal project used to collate and document projects I have developed into a portfolio.
 
