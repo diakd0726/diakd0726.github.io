@@ -15,38 +15,31 @@ This is a live chat web application with user registration, login, authenticatio
 This project's repository currently cannot be accessed
 
 1. ```
-   git clone
-   ```
-
-````
+git clone
+```
 
 2. ```
 npm install
-````
+```
 
 3. ```
-   cd client
-   ```
-
-````
+cd client
+```
 
 4. ```
 npm run start
-````
+```
 
 5. In a separate terminal:
-
 ```
 cd server
 ```
 
-6.  ```
-    node server.js
-    ```
+ 6. ```
+node server.js
+ ```
 
-````
-
-7. Open ```http://localhost:3000```
+ 7. Open ```http://localhost:3000```
 
 ### Built With
 
@@ -63,4 +56,3 @@ cd server
 > ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-````
